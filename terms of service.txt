@@ -1,0 +1,21 @@
+Warunki Użytkowania dla mmates
+
+Witamy!
+Niniejsze Warunki Użytkowania ("Warunki") regulują korzystanie z mmates (dalej "Bot"). Prosimy o uważne zapoznanie się z nimi.
+
+1.  Opis Bota
+    mmates to prosty, osobisty skrypt przeznaczony do monitorowania publicznie dostępnych informacji na platformie TikTok, takich jak liczba obserwujących czy nowe filmy dla wybranego konta użytkownika. Bot działa lokalnie na komputerze użytkownika i nie jest dostępny publicznie.
+
+2.  Brak Gwarancji
+    Bot jest dostarczany "tak jak jest", bez żadnych gwarancji, wyraźnych ani dorozumianych. Nie gwarantujemy, że Bot będzie działał nieprzerwanie, bezbłędnie ani że dane będą zawsze dokładne.
+
+3.  Odpowiedzialność Użytkownika
+    Korzystając z Bota, użytkownik ponosi pełną odpowiedzialność za wszelkie działania podejmowane z jego użyciem. Użytkownik jest zobowiązany do przestrzegania wszystkich obowiązujących przepisów prawa oraz Warunków Usługi platformy TikTok. Nie ponosimy odpowiedzialności za jakiekolwiek szkody lub straty wynikające z korzystania z Bota.
+
+4.  Zmiany w Warunkach
+    Zastrzegamy sobie prawo do modyfikowania niniejszych Warunków w dowolnym momencie. Dalsze korzystanie z Bota po wprowadzeniu zmian oznacza akceptację zaktualizowanych Warunków.
+
+5.  Kontakt
+    W przypadku pytań dotyczących niniejszych Warunków, prosimy o kontakt [tutaj możesz dodać swój adres e-mail, jeśli chcesz, lub pozostawić bez kontaktu, jeśli to bot tylko dla Ciebie].
+
+Ostatnia aktualizacja: 25 czerwca 2025

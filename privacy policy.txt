@@ -1,0 +1,24 @@
+Polityka Prywatności dla mmates
+
+Niniejsza Polityka Prywatności wyjaśnia, w jaki sposób mmates (dalej "Bot") przetwarza informacje. Prosimy o uważne zapoznanie się z jej treścią.
+
+1.  Gromadzenie Danych
+    Bot jest zaprojektowany do minimalnego gromadzenia danych. Nie zbiera, nie przechowuje ani nie udostępnia żadnych danych osobowych użytkowników, takich jak imię, nazwisko, adres e-mail, adres IP, czy dane urządzenia.
+    Bot przetwarza jedynie publicznie dostępne informacje z platformy TikTok (np. ID filmów, liczba obserwujących dla określonego konta) w celu świadczenia swojej podstawowej funkcji monitorowania.
+
+2.  Wykorzystanie Danych
+    Wszelkie dane przetwarzane przez Bota służą wyłącznie do wewnętrznego działania Bota na komputerze użytkownika i do świadczenia funkcji monitorowania. Dane te nie są wykorzystywane do celów marketingowych, analizy behawioralnej ani nie są udostępniane podmiotom trzecim.
+
+3.  Przechowywanie Danych
+    Bot nie posiada centralnej bazy danych do przechowywania informacji o użytkownikach. Wszelkie niezbędne dane do jego działania (np. ostatnio przetworzone ID wideo lub liczba obserwujących) są przechowywane lokalnie na komputerze, na którym Bot jest uruchomiony.
+
+4.  Pliki Cookie i Technologie Śledzenia
+    Bot sam w sobie nie używa plików cookie ani innych technologii śledzenia. Pamiętaj jednak, że podczas interakcji z platformą TikTok (nawet poprzez API lub narzędzia takie jak Playwright), platforma ta może używać własnych plików cookie i technologii śledzenia, zgodnie ze swoją Polityką Prywatności.
+
+5.  Zmiany w Polityce Prywatności
+    Zastrzegamy sobie prawo do modyfikowania niniejszej Polityki Prywatności. Wszelkie zmiany będą publikowane na tej stronie.
+
+6.  Kontakt
+    W przypadku pytań dotyczących niniejszej Polityki Prywatności, prosimy o kontakt [tutaj możesz dodać swój adres e-mail, jeśli chcesz, lub pozostawić bez kontaktu, jeśli to bot tylko dla Ciebie].
+
+Ostatnia aktualizacja: 25 czerwca 2025
